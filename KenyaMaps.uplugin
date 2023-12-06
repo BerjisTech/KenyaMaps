@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "KenyaMaps",
+	"Description": "A map of different areas in Kenya",
+	"Category": "Maps",
+	"CreatedBy": "Sombo",
+	"CreatedByURL": "https://berjis.tech",
+	"DocsURL": "https://berjis.tech/kenya-maps/docs",
+	"MarketplaceURL": "",
+	"SupportURL": "https://berjis.tech/kenya-maps/support",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "KenyaMaps",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}

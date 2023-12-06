@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "f:\\sombo\\plugins\\kenyamaps\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\kenyamaps\\module.kenyamaps.cpp",
+        "ProvidedModule": "",
+        "PCH": "f:\\sombo\\intermediate\\build\\win64\\x64\\somboeditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "f:\\sombo\\plugins\\kenyamaps\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\kenyamaps\\definitions.kenyamaps.h",
+            "f:\\sombo\\plugins\\kenyamaps\\source\\kenyamaps\\private\\kenyamaps.cpp",
+            "f:\\sombo\\plugins\\kenyamaps\\source\\kenyamaps\\public\\kenyamaps.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
