@@ -1,0 +1,8 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.KenyaMaps.cpp.obj": [
+			"KenyaMaps.cpp.obj"
+		]
+	}
+}
