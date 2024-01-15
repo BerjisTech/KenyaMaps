@@ -6,8 +6,13 @@
         "PCH": "f:\\sombo\\intermediate\\build\\win64\\x64\\sombo\\development\\engine\\sharedpch.engine.cpp20.h.pch",
         "Includes": [
             "f:\\sombo\\plugins\\kenyamaps\\intermediate\\build\\win64\\x64\\unrealgame\\development\\kenyamaps\\definitions.kenyamaps.h",
+            "f:\\sombo\\plugins\\kenyamaps\\intermediate\\build\\win64\\unrealgame\\inc\\kenyamaps\\uht\\kenyamaps.init.gen.cpp",
+            "f:\\sombo\\plugins\\kenyamaps\\intermediate\\build\\win64\\unrealgame\\inc\\kenyamaps\\uht\\maplocation.gen.cpp",
+            "f:\\sombo\\plugins\\kenyamaps\\source\\kenyamaps\\public\\maplocation.h",
+            "f:\\sombo\\plugins\\kenyamaps\\intermediate\\build\\win64\\unrealgame\\inc\\kenyamaps\\uht\\maplocation.generated.h",
             "f:\\sombo\\plugins\\kenyamaps\\source\\kenyamaps\\private\\kenyamaps.cpp",
-            "f:\\sombo\\plugins\\kenyamaps\\source\\kenyamaps\\public\\kenyamaps.h"
+            "f:\\sombo\\plugins\\kenyamaps\\source\\kenyamaps\\public\\kenyamaps.h",
+            "f:\\sombo\\plugins\\kenyamaps\\source\\kenyamaps\\private\\maplocation.cpp"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []

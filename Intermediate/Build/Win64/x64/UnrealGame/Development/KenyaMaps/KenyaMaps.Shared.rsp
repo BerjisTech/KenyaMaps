@@ -107,6 +107,7 @@
 /I "Runtime\TypedElementFramework\Public"
 /I "..\Intermediate\Build\Win64\UnrealGame\Inc\TypedElementRuntime\UHT"
 /I "Runtime\TypedElementRuntime\Public"
+/I "F:\Sombo\Plugins\KenyaMaps\Intermediate\Build\Win64\UnrealGame\Inc\KenyaMaps\UHT"
 /I "F:\Sombo\Plugins\KenyaMaps\Source"
 /I "F:\Sombo\Plugins\KenyaMaps\Source\KenyaMaps\Public"
 /external:W0
