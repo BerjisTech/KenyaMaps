@@ -257,6 +257,7 @@
 /I "Developer\PhysicsUtilities\Public"
 /I "..\Intermediate\Build\Win64\UnrealEditor\Inc\WidgetRegistration\UHT"
 /I "Developer\WidgetRegistration\Public"
+/I "F:\Sombo\Plugins\KenyaMaps\Intermediate\Build\Win64\UnrealEditor\Inc\KenyaMaps\UHT"
 /I "F:\Sombo\Plugins\KenyaMaps\Source"
 /I "F:\Sombo\Plugins\KenyaMaps\Source\KenyaMaps\Public"
 /external:W0
