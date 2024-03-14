@@ -2,7 +2,12 @@
 	"RemapUnityFiles": 
 	{
 		"Module.KenyaMaps.cpp.obj": [
-			"KenyaMaps.cpp.obj"
+			"AIDriver.gen.cpp.obj",
+			"KenyaMaps.init.gen.cpp.obj",
+			"MapLocation.gen.cpp.obj",
+			"AIDriver.cpp.obj",
+			"KenyaMaps.cpp.obj",
+			"MapLocation.cpp.obj"
 		]
 	}
 }
