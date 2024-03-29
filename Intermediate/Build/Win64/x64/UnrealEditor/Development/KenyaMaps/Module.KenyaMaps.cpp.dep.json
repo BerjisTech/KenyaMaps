@@ -3,7 +3,7 @@
     "Data": {
         "Source": "f:\\sombo\\plugins\\kenyamaps\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\kenyamaps\\module.kenyamaps.cpp",
         "ProvidedModule": "",
-        "PCH": "d:\\epic games\\unrealengine-release\\engine\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "PCH": "f:\\sombo\\intermediate\\build\\win64\\x64\\somboeditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
         "Includes": [
             "f:\\sombo\\plugins\\kenyamaps\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\kenyamaps\\definitions.kenyamaps.h",
             "f:\\sombo\\plugins\\kenyamaps\\intermediate\\build\\win64\\unrealeditor\\inc\\kenyamaps\\uht\\kenyamaps.init.gen.cpp",
