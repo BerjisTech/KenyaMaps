@@ -72,9 +72,9 @@
 /DBUILT_FROM_CHANGELIST=29314046
 /DBUILD_VERSION=++UE5+Release-5.3-CL-29314046
 /DBUILD_ICON_FILE_NAME="\"..\\Build\\Windows\\Resources\\Default.ico\""
-/DPROJECT_COMPANY_NAME="Berjis Technologies LTD"
+/DPROJECT_COMPANY_NAME="Berjis Technologies"
 /DPROJECT_COPYRIGHT_STRING="Fill out your copyright notice in the Description page of Project Settings."
-/DPROJECT_PRODUCT_NAME=Sombo
-/DPROJECT_PRODUCT_IDENTIFIER=Sombo
-/fo "F:\Sombo\Plugins\KenyaMaps\Intermediate\Build\Win64\x64\UnrealEditor\Development\KenyaMaps\Default.rc2.res"
+/DPROJECT_PRODUCT_NAME=Mbogi
+/DPROJECT_PRODUCT_IDENTIFIER=Mbogi
+/fo "F:\Mbogi\Plugins\KenyaMaps\Intermediate\Build\Win64\x64\UnrealEditor\Development\KenyaMaps\Default.rc2.res"
 "..\Build\Windows\Resources\Default.rc2"

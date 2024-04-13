@@ -6,7 +6,7 @@
 /NAME:"UnrealEditor-KenyaMaps.dll"
 /IGNORE:4221
 /NODEFAULTLIB
-"F:\Sombo\Intermediate\Build\Win64\x64\SomboEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.obj"
-"F:\Sombo\Plugins\KenyaMaps\Intermediate\Build\Win64\x64\UnrealEditor\Development\KenyaMaps\Module.KenyaMaps.cpp.obj"
-"F:\Sombo\Plugins\KenyaMaps\Intermediate\Build\Win64\x64\UnrealEditor\Development\KenyaMaps\Default.rc2.res"
-/OUT:"F:\Sombo\Plugins\KenyaMaps\Intermediate\Build\Win64\x64\UnrealEditor\Development\KenyaMaps\UnrealEditor-KenyaMaps.lib"
+"F:\Mbogi\Intermediate\Build\Win64\x64\MbogiEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.obj"
+"F:\Mbogi\Plugins\KenyaMaps\Intermediate\Build\Win64\x64\UnrealEditor\Development\KenyaMaps\Module.KenyaMaps.cpp.obj"
+"F:\Mbogi\Plugins\KenyaMaps\Intermediate\Build\Win64\x64\UnrealEditor\Development\KenyaMaps\Default.rc2.res"
+/OUT:"F:\Mbogi\Plugins\KenyaMaps\Intermediate\Build\Win64\x64\UnrealEditor\Development\KenyaMaps\UnrealEditor-KenyaMaps.lib"

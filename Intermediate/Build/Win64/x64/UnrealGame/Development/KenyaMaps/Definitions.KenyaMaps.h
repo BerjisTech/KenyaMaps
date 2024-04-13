@@ -1,4 +1,4 @@
-#include "F:/Sombo/Intermediate/Build/Win64/x64/Sombo/Development/Engine/SharedDefinitions.Engine.Cpp20.h"
+#include "F:/Mbogi/Intermediate/Build/Win64/x64/Mbogi/Development/Engine/SharedDefinitions.Engine.Cpp20.h"
 #undef UE_IS_ENGINE_MODULE
 #undef DEPRECATED_FORGAME
 #define DEPRECATED_FORGAME DEPRECATED
@@ -13,8 +13,8 @@
 #define UE_ENABLE_INCLUDE_ORDER_DEPRECATED_IN_5_1 0
 #define UE_ENABLE_INCLUDE_ORDER_DEPRECATED_IN_5_2 0
 #define UE_ENABLE_INCLUDE_ORDER_DEPRECATED_IN_5_3 0
-#define UE_PROJECT_NAME Sombo
-#define UE_TARGET_NAME Sombo
+#define UE_PROJECT_NAME Mbogi
+#define UE_TARGET_NAME Mbogi
 #define UE_MODULE_NAME "KenyaMaps"
 #define UE_PLUGIN_NAME "KenyaMaps"
 #define IMPLEMENT_ENCRYPTION_KEY_REGISTRATION() 

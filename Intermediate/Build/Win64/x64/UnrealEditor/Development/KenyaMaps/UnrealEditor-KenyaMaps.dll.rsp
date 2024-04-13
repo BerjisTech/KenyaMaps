@@ -34,9 +34,9 @@
 /NODEFAULTLIB:"LIBCD"
 /NODEFAULTLIB:"LIBCPD"
 /FUNCTIONPADMIN:6
-"F:\Sombo\Intermediate\Build\Win64\x64\SomboEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.obj"
-"F:\Sombo\Plugins\KenyaMaps\Intermediate\Build\Win64\x64\UnrealEditor\Development\KenyaMaps\Module.KenyaMaps.cpp.obj"
-"F:\Sombo\Plugins\KenyaMaps\Intermediate\Build\Win64\x64\UnrealEditor\Development\KenyaMaps\Default.rc2.res"
+"F:\Mbogi\Intermediate\Build\Win64\x64\MbogiEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.obj"
+"F:\Mbogi\Plugins\KenyaMaps\Intermediate\Build\Win64\x64\UnrealEditor\Development\KenyaMaps\Module.KenyaMaps.cpp.obj"
+"F:\Mbogi\Plugins\KenyaMaps\Intermediate\Build\Win64\x64\UnrealEditor\Development\KenyaMaps\Default.rc2.res"
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\CoreUObject\UnrealEditor-CoreUObject.lib"
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\Engine\UnrealEditor-Engine.lib"
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\Slate\UnrealEditor-Slate.lib"
@@ -67,7 +67,7 @@
 "synchronization.lib"
 "dwmapi.lib"
 "imm32.lib"
-/OUT:"F:\Sombo\Plugins\KenyaMaps\Binaries\Win64\UnrealEditor-KenyaMaps.dll"
-/IMPLIB:"F:\Sombo\Plugins\KenyaMaps\Intermediate\Build\Win64\x64\UnrealEditor\Development\KenyaMaps\UnrealEditor-KenyaMaps.sup.lib"
-/PDB:"F:\Sombo\Plugins\KenyaMaps\Binaries\Win64\UnrealEditor-KenyaMaps.pdb"
+/OUT:"F:\Mbogi\Plugins\KenyaMaps\Binaries\Win64\UnrealEditor-KenyaMaps.dll"
+/IMPLIB:"F:\Mbogi\Plugins\KenyaMaps\Intermediate\Build\Win64\x64\UnrealEditor\Development\KenyaMaps\UnrealEditor-KenyaMaps.sup.lib"
+/PDB:"F:\Mbogi\Plugins\KenyaMaps\Binaries\Win64\UnrealEditor-KenyaMaps.pdb"
 /ignore:4078
