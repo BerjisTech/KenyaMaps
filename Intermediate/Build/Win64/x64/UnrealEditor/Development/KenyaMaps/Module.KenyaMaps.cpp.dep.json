@@ -6,13 +6,8 @@
         "PCH": "f:\\mbogi\\intermediate\\build\\win64\\x64\\mbogieditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
         "Includes": [
             "f:\\mbogi\\plugins\\kenyamaps\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\kenyamaps\\definitions.kenyamaps.h",
-            "f:\\mbogi\\plugins\\kenyamaps\\intermediate\\build\\win64\\unrealeditor\\inc\\kenyamaps\\uht\\kenyamaps.init.gen.cpp",
-            "f:\\mbogi\\plugins\\kenyamaps\\intermediate\\build\\win64\\unrealeditor\\inc\\kenyamaps\\uht\\maplocation.gen.cpp",
-            "f:\\mbogi\\plugins\\kenyamaps\\source\\kenyamaps\\public\\maplocation.h",
-            "f:\\mbogi\\plugins\\kenyamaps\\intermediate\\build\\win64\\unrealeditor\\inc\\kenyamaps\\uht\\maplocation.generated.h",
             "f:\\mbogi\\plugins\\kenyamaps\\source\\kenyamaps\\private\\kenyamaps.cpp",
-            "f:\\mbogi\\plugins\\kenyamaps\\source\\kenyamaps\\public\\kenyamaps.h",
-            "f:\\mbogi\\plugins\\kenyamaps\\source\\kenyamaps\\private\\maplocation.cpp"
+            "f:\\mbogi\\plugins\\kenyamaps\\source\\kenyamaps\\public\\kenyamaps.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []
